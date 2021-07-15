@@ -1,4 +1,4 @@
-# React Web App made with parcel and recoil
+# React Web App Starter made with Parcel and Recoil
 
 made with Love by Anthony Gitau Thagichu
 
