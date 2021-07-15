@@ -1,12 +1,12 @@
-# React Web App Starter made with Parcel and Recoil
+# React Web App Starter made with Parcel and Recoil 🤘
 
-made with Love by Anthony Gitau Thagichu
+made with 💗 by Anthony Gitau Thagichu 
 
-# Support
+# Support ✊
 
 All the support for this Starter Code is done through: https://github.com/devthagichu/react-parcel-recoil-starter/issues
 
-# Author Details
+# Author Details 🤙
 
 Anthony Gitau Thagichu
 
@@ -18,6 +18,6 @@ Youtube: https://www.youtube.com/channel/UC7_SdKhua8Ysxzj2y_1km3Q?view_as=subscr
 
 Linkedn: https://www.linkedin.com/in/devthagichu/
 
-# License
+# License 🖖
 
 This project is licensed under the MIT License.
